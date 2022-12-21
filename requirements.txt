@@ -1,0 +1,5 @@
+pandas
+numpy
+pmdarima
+statsmodels
+tqdm
